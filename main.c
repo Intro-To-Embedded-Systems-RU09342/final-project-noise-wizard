@@ -10,7 +10,7 @@
  Date Started: 12/5/2019
  Date Finished: 12/16/2019
 
- Final Project
+ Final Project LCD Display
  Goal: Show the volume, bass, treble and mid change in digipots outputs to the audio amplifier on an LCD Screen
        Signal is Transmitted through USB
        After 4 seconds of inactivity the volume level is shown as default
